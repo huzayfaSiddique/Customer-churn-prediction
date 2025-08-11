@@ -1,3 +1,4 @@
-This project analyzes customer data from a telecom company to predict which customers are likely to leave (“churn”). The dataset contains details about each customer’s demographics, account information, services subscribed, 
-and billing history.By exploring patterns in the data, we identify key factors influencing churn, such as contract type, monthly charges, and tenure. We then build and tune machine learning models to accurately flag 
-at-risk customers.The goal is to help telecom businesses take proactive steps to retain customers, reduce revenue loss, and improve customer satisfaction. This project includes data cleaning, feature engineering, model evaluation,
+This project analyzes customer data from a telecom company to predict which customers are likely to leave (“churn”). The dataset contains details about each customer’s demographics, 
+account information, services subscribed, and billing history.By exploring patterns in the data, we identify key factors influencing churn, such as contract type, monthly charges, and tenure.
+We then build and tune machine learning models to accurately flag at-risk customers.The goal is to help telecom businesses take proactive steps to retain customers, reduce revenue loss, 
+and improve customer satisfaction. This project includes data cleaning, feature engineering, model evaluation,
